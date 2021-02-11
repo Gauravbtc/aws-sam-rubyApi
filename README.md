@@ -148,7 +148,7 @@ check logs of api you can find your application url in console
 sam build --use-container
 ```
 
-### Verify your lumada functions
+### Verify your lambda functions
 ```
 sam local invoke #{NameOfFunction} 
 ```
