@@ -170,4 +170,4 @@ sam deploy \
     --capabilities CAPABILITY_IAM
 ```
 
-Check your Consloe you will find API gateway URL and check your API 
+Check your console will find API gateway URL. 
